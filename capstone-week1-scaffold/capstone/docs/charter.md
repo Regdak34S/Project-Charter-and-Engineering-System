@@ -37,7 +37,7 @@ The purpose of this capstone is to give me experience managing and completing a 
 |---|---|
 | Hours available per week | 8 hours and 50 minutes |
 | Total hours budgeted | 240 |
-| Weeks that are already broken (and where those hours move) | Week 8 may be disrupted by a school break or other commitments. If this happens, I will move the planned work into Week 7 and complete the highest-priority tasks before the break. Week 11 may also be disrupted by other coursework, so I will move part of that week's planned work into Weeks 9 and 10. |
+| Weeks that are already broken (and where those hours move) | Week 8 may be disrupted by fall break. I will move the planned work into Week 7 and complete the highest-priority tasks before the break. Week 11 may also be disrupted by other coursework, so I will move part of that week's planned work into Weeks 9 and 10. |
 | Machine (OS, RAM, disk) | Windows Laptop, 8 GB RAM, 119 GB SSD |
 | Administrator rights on that machine? | yes |
 | Money I will spend on this project | $0 |
@@ -49,8 +49,8 @@ The purpose of this capstone is to give me experience managing and completing a 
 
 <!-- Write the acceptance test for the whole semester, as something someone
      else could check without asking you a question. Three to six bullets. -->
-    - The capstone project itself is completed and works according to the requirements decided in Week 2.
-    - The required project documentation has been completed and is organized in the repository.
+    - The project itself is completed and works according to the requirements decided in Week 2.
+    - The required documentation has been completed and is organized in the repository.
     - The project has been tested, and the results are documented.
     - The README explains what the project is and how someone else can understand or run it.
     - The repository contains the required project files and has a clean, organized structure.
@@ -66,7 +66,7 @@ The purpose of this capstone is to give me experience managing and completing a 
 2. I will not add a social or login system.
 3. I will not make content creation a separate part of the project.
 4. I will not spend a large amount of time creating complicated animations.
-5. I will not keep adding extra features after the main project requirements have been decided.
+5. I will not keep adding features after the main project requirements have been decided.
 
 ## 6. Risks to me finishing
 
