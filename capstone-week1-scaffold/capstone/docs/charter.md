@@ -13,7 +13,7 @@
   than a charter that has always been right.
 -->
 
-**Owner:** Reggie · **Course:** Capstone · **Started:** 2026-08-26 · **Last revised:** 2026-08-29
+**Owner:** Reggie · **Course:** Capstone · **Started:** 2026-08-25 · **Last revised:** 2026-08-29
 
 ## 1. Purpose
 
