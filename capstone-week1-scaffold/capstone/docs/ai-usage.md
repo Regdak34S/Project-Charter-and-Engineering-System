@@ -1,7 +1,7 @@
 # AI Usage Log —
 
 **Owner:** Reggie Johnson  
-**Policy set:** August 26, 2026  
+**Policy set:** August 25, 2026  
 **Last entry:** August 29, 2026
 
 ## Policy
@@ -32,5 +32,5 @@ Every Amber-zone use appears below. Generated code that survives into `src/` car
 
 | Date | Tool / model | What I asked | What I kept | What I changed | How I verified |
 | --- | --- | --- | --- | --- | --- |
-| August 26, 2026 | ChatGPT / GPT-5.6 Luna | Helped identify missing Week 1 repository requirements and organize the setup based on the course instructions. | The repository structure and planning checklist ideas that I independently reviewed. | I supplied my own schedule, non-goals, risks, and other personal constraints. | I compared the result against the assignment requirements and will review each repository file before submitting it. |
+| August 25, 2026 | ChatGPT / GPT-5.6 Luna | Helped identify missing Week 1 repository requirements and organize the setup based on the course instructions. | The repository structure and planning checklist ideas that I independently reviewed. | I supplied my own schedule, non-goals, risks, and other personal constraints. | I compared the result against the assignment requirements and will review each repository file before submitting it. |
 | August 29, 2026 | Grok / X | Helped use more files for missing Week 1 repository requirements and organize the setup based on the course instructions. | The repository structure and planning checklist ideas that I independently reviewed. | I supplied my own schedule, non-goals, risks, and other personal constraints. | I compared the result against the assignment requirements and will review each repository file before submitting it. |
