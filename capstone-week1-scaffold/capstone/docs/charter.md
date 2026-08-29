@@ -37,7 +37,7 @@ The purpose of this capstone is to give me experience managing and completing a 
 |---|---|
 | Hours available per week | Approximately 141 hours and 20 minutes |
 | Total hours budgeted | Approximately 141 hours and 20 minutes |
-| Weeks that are already broken (and where those hours move) | Week 8 may be disrupted by fall break. I will move the planned Week 8 work into Week 7 and complete the highest-priority tasks before the break. Week 11 may also be disrupted by other coursework, so I will move the planned Week 11 work into Weeks 9 and 10. |
+| Weeks that are already broken (and where those hours move) | Week 8 may be disrupted by fall break. I will move the planned work into Week 7 and complete the highest-priority tasks before the break. Week 11 may also be disrupted by other coursework, so I will move part of that week's planned work into Weeks 9 and 10. |
 | Machine (OS, RAM, disk) | Windows Laptop, 8 GB RAM, 119 GB SSD |
 | Administrator rights on that machine? | yes |
 | Money I will spend on this project | $0 |
