@@ -78,7 +78,7 @@ The purpose of this capstone is to give me experience managing and completing a 
 
 ## 7. Working agreement
 
-- **Sessions:** Monday–Thursday, 2:30 PM–4:00 PM; Friday, 10:05 AM–10:55 AM; Saturday–Sunday, 3:00 PM–4:00 PM.
+- **Sessions:** 2:00 PM–4:00 PM Everyday
 - **Logging:** every session ends with a row in `docs/hours-log.csv`, written before I close the laptop.
 - **Board:** work-in-progress limit of 2; nothing moves to Done without its stopping condition met.
 - **Commits:** requirement identifier first in the subject line; one logical change per commit.
