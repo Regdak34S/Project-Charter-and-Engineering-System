@@ -1,3 +1,3 @@
 ## Project Board
 
-The Week 1 engineering board is maintained in GitHub Projects.
+The Week 2 Idea Portfolio & Scoping Decision is maintained in GitHub Projects.
