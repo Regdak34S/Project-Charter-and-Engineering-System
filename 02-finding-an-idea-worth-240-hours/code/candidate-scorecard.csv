@@ -1,0 +1,7 @@
+candidate,features,integrations,auth,persistence,deploy,data,new_tech
+PantryPilot (first draft),11,3,yes,yes,yes,complex,3
+PantryPilot (cut MVP),5,1,no,yes,yes,moderate,1
+StudyLoop (rejected),6,1,yes,yes,yes,moderate,2
+CampusRide (rejected),9,2,yes,yes,yes,complex,3
+TraceLens (CLI contrast),4,0,no,no,yes,complex,1
+Personal to-do list (too small),3,0,no,yes,no,simple,0
