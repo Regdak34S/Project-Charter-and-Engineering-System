@@ -5,8 +5,8 @@ Copy this file once per candidate into your repository as `docs/ideas/candidate-
 know yet, and that is exactly what this page is for. Delete the bracketed guidance
 as you go.
 
-**Candidate name:** <short, memorable, not a technology>
-**Date started:** <YYYY-MM-DD>   **Well it came from:** <work / campus / hobby / open source / client / research gap>
+**Candidate name:** Reggie
+**Date started:** 2026-08-31   **Well it came from:** <work / campus / hobby / open source / client / research gap>
 
 ---
 
