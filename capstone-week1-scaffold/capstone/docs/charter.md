@@ -25,7 +25,7 @@
             and handoff documents a professional team would expect alongside it." -->
 The purpose of this capstone is to give me experience managing and completing a software project from the beginning through the end of the semester. By the end of the sixteen weeks, I want to have a completed project with the required documentation, testing, and repository organization so that someone else can understand what I built and how I worked on it.
 
-## 2. Project (filled in Week 2, after the scoping decision)
+## 2. Project
 
 - **One-sentence description:** I will create a small software project that solves a specific problem for users while giving me experience with planning, programming, testing, and documenting a complete project.
 - **Primary user:** Reginald
