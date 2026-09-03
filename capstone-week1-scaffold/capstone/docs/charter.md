@@ -13,7 +13,7 @@
   than a charter that has always been right.
 -->
 
-**Owner:** Reggie · **Course:** Capstone · **Started:** 2026-08-25 · **Last revised:** 2026-08-29
+**Owner:** Reggie · **Course:** Capstone · **Started:** 2026-08-25 · **Last revised:** 2026-09-03
 
 ## 1. Purpose
 
@@ -27,16 +27,16 @@ The purpose of this capstone is to give me experience managing and completing a 
 
 ## 2. Project (filled in Week 2, after the scoping decision)
 
-- **One-sentence description:** <fill in Week 2>
-- **Primary user:** <fill in Week 2>
-- **The one thing it must do to be worth finishing:** <fill in Week 2>
+- **One-sentence description:** I will create a small software project that solves a specific problem for users while giving me experience with planning, programming, testing, and documenting a complete project.
+- **Primary user:** Reginald
+- **The one thing it must do to be worth finishing:** The project must successfully provide its main function and solve the main problem I created it for. If the main function does not work, then the project would not be worth finishing. My goal is to make sure the core feature works reliably before spending time on extra features. science
 
 ## 3. Capacity and constraints
 
 | Constraint | My reality |
 |---|---|
 | Hours available per week | Approximately 8 hours and 50 minutes |
-| Total hours budgeted | Approximately 141 hours and 20 minutes |
+| Total hours budgeted | Approximately 141 hours and 20 minutes (Originally supposed to be 240) |
 | Weeks that are already broken (and where those hours move) | Week 8 may be disrupted by fall break. I will move the planned work into Week 7 and complete the highest-priority tasks before the break. Week 11 may also be disrupted by other coursework, so I will move part of that week's planned work into Weeks 9 and 10. If I cannot make up the time, I will follow my cut order in §7 and cut advanced functionality first. |
 | Machine (OS, RAM, disk) | Windows Laptop, 8 GB RAM, 119 GB SSD |
 | Administrator rights on that machine? | yes |
